@@ -1,0 +1,84 @@
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|servicebook|title', 'text' : 'DIVINE LITURGIE'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|servicebook|title2', 'text' : 'DE'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|servicebook|title3', 'text' : 'SAINT JEAN CHRYSOSTOME'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|title', 'text' : 'PROSCOMÉDIE OU PRÉPARATION'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric1', 'text' : 'Avant d’accomplir le sacrifice divin, le prêtre doit s’être réconcilié avec tous et n’avoir de ressentiment envers personne. Il doit garder son coeur libre de toute pensée impure, s’abstenir de tout aliment depuis le soir jusqu’à l’heure même du sacrifice.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|initialprayers|title', 'text' : 'PRIÈRES INITIALES'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|enteringbows', 'text' : 'Le moment de célébrer étant venu, le prêtre et le diacre entrent dans le temple et, tournés vers l’orient, font trois inclinations devant les portes saintes.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|mercy', 'text' : 'Seigneur, sois-moi favorable et aie pitié de moi, pécheur.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|doxapatrikainyn', 'text' : 'Gloire au Père et au Fils et au Saint Esprit, maintenant et toujours et aux siècles des siècles. Amen.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|iconchrist', 'text' : 'Le prêtre et le diacre s’approchent de l’icône du Sauveur, font trois inclinations, baisent l’icône et disent:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|icontheotokos', 'text' : 'Puis ils s’approchent de l’icône de la Mère de Dieu, font trois inclinations, baisent l’icône et disent:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|aftervenerating', 'text' : 'Revenant face aux portes saintes, ils inclinent la tête et disent:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|kyrieexaposteilon', 'text' : 'Seigneur, étends ta main du haut de ta demeure et fortifie-moi pour ce service, afin que je me présente devant ton redoutable autel sans encourir de condamnation, pour accomplir le sacrifice non sanglant. Car à toi appartiennent le règne, la puissance et la gloire aux siècles des siècles. Amen.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|forgivecongregation', 'text' : 'Ils se saluent mutuellement puis, se tournant vers l’assemblée, ils font une inclination à droite puis à gauche en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|forgivecongregation', 'text' : 'Pardonnez-nous, frères et soeurs.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|entrance', 'text' : 'Ils pénètrent ensuite dans le sanctuaire par la porte sud en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|veneratealtar', 'text' : 'Ils se prosternent trois fois devant l’autel en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|kissaltargospel', 'text' : 'Ils baisent l’autel et l’évangélaire, puis se rendent au diaconicon ou à la sacristie.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|deacontopriest', 'text' : 'Le diacre s’approche du prêtre en tenant dans la main droite le sticharion (ou aube) et l’orarion (ou étole diaconale) pliés ; il incline la tête et dit:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|vesting|title', 'text' : 'VÊTURE DU CLERGÉ'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|blesssticharion', 'text' : 'Bénis, père, le sticharion et l’étole.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|kisshand', 'text' : 'Il baise la croix figurée sur le sticharion et dit en le revêtant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|agalliasetai', 'text' : 'Mon âme se réjouira dans le Seigneur, car il m’a revêtu des vêtements du salut, il m’a couvert d’une tunique d’allégresse, comme un fiancé, il m’a ceint le front d’une couronne, comme une fiancée, il m’a paré de beauté.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|blessvestments', 'text' : 'Il baise l’étole et la passe sur l’épaule gauche. Il met la manchette sur le bras droit en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|blessrightcuff', 'text' : 'Ta Droite, Seigneur, magnifique en puissance, ta Droite, Seigneur, écrase l’ennemi ; dans la plénitude de ta gloire tu as renversé les adversaires.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|leftcuff', 'text' : 'Il met la seconde manchette sur le bras gauche en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|epitrachilion', 'text' : 'Sur l’étole:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|blessepitrachilion|p1', 'text' : 'Béni soit Dieu qui verse sa grâce sur ses prêtres,'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|epigonation', 'text' : 'Sur l’epigonation (s’il y a droit):'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|zoni', 'text' : 'Sur la ceinture:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|blesszoni|p1', 'text' : 'Béni soit Dieu'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|rightcuff', 'text' : 'Sur la manchette droite:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|blessrightcuff', 'text' : 'Ta Droite, Seigneur, magnifique en puissance, ta Droite, Seigneur, écrase l’ennemi; dans la plénitude de ta gloire tu as renversé les adversaires.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|leftcuff', 'text' : 'Sur la manchette gauche:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|felonion', 'text' : 'Sur le phélonion ou chasuble:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|washhands', 'text' : 'Les célébrants se lavent les mains en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|tableofpreparation', 'text' : 'Le prêtre et le diacre se rendent à la table de préparation (ou autel de prothèse). Le diacre allume un cierge et dispose en ordre les éléments eucharistiques ainsi que les différents objets nécessaires au sacrifice divin. Les éléments eucharistiques sont constitués pain de froment fermenté et du vin de raisin naturel mélangé d’un peu d’eau. Le pain servant à l’eucharistie s’appelle prosphora (prosphore), ce qui signifie  'offrande' en grec. On emploie généralement cinq prosphores, ou également une seule, plus grande, sur laquelle sont figurées cinq empreintes. La première prosphore porte sur sa face supérieure l’empreinte suivante: <br> IC XC <br> NI KA <br> Les lettres grecques disposées autour de la croix signifie 'Jésus Christ' (IS XS) 'Vainqueur' (NIKA). Les autres prosphores peuvent porter d’autres empreintes, notamment l’image de la Mère de Dieu.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|bowthriceprothesis', 'text' : 'Les célébrants font fois inclinations devant la table de préparation en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|mercy2', 'text' : 'Seigneur, sois-moi favorable et aie pitié de moi, pécheur.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|raiselance', 'text' : 'Les mains élevées, ils récitent le tropaire du Vendredi Saint:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|crossprosfora', 'text' : 'Le prêtre prend la lance de sa main droite et la prosphore de sa main gauche et il trace trois signes de croix avec la lance sur la prosphore en disant chaque fois:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|inmemory', 'text' : 'En mémoire de notre Seigneur, Dieu et Sauveur, Jésus Christ.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|pierce', 'text' : 'Il incise la prosphore autour de l’empreinte pour en découper la partie centrale en forme de cube, appelée 'Agneau'. Il taille d’abord le côté droit de la prosphore (par rapport au célébrant, c’est le côté gauche) en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|pierce', 'text' : 'Comme une brebis, il a été mené à l’immolation.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|cutleft', 'text' : 'Le prêtre taille le côté opposé:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|cutleft', 'text' : 'Et comme un agneau sans tache, muet devant celui qui le tond, il n’a pas ouvert la bouche.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|cuttop', 'text' : 'Il taille le côté supérieur:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|cuttop', 'text' : 'Dans l’humilité, son jugement a été exalté.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|cutbottom', 'text' : 'Il taille le côté inférieur:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|cutbottom', 'text' : 'Qui racontera sa génération?'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|removelamb', 'text' : 'Au moyen de la lance, le prêtre enlève l’Agneau et le place renversé (l’empreinte en dessous) sur la patène:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|removelamb', 'text' : 'Car sa vie a été élevée de la terre.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|sacrifice', 'text' : 'Immole, père.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|cutlamb', 'text' : 'Le prêtre incise l’Agneau en forme de croix, sans le rompre, car la fraction du Pain se fera au Canon eucharistique:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|cutlamb', 'text' : 'Il est immolé, l’Agneau de Dieu qui ôte le péché du monde, pour la vie et le salut du monde.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|revertlamb', 'text' : 'Il retourne l’Agneau (empreinte au-dessus) et le place au milieu de la patène:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|pierce2', 'text' : 'Transperce, père.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|pierce2', 'text' : 'Le prêtre perce au moyen de la lance le côté droit de l’Agneau (à gauche par rapport au célébrant):'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|pierce3', 'text' : 'L’un des soldats lui perça le côté avec sa lance, et aussitôt il en sortit du sang et de l’eau. Celui qui a vu, c’est lui qui en rend témoignage et son témoignage est véridique.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|mixchalice', 'text' : 'Le diacre verse le vin et l’eau dans le calice:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|holyunion', 'text' : 'Bénis, père, la sainte union.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|blessunion', 'text' : 'Béni soit l’union de tes saints, en tout temps, maintenant et toujours et aux siècles des siècles.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|anotherprosfora', 'text' : 'En honneur et mémoire de la toute sainte, toute pure, bénie par-dessus tout, notre glorieuse Souveraine la Mère de Dieu et toujours Vierge Marie. Par ses prières, Seigneur, reçois ce sacrifice sur ton autel céleste.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|theotokosparticle', 'text' : 'Il découpe avec la lance une parcelle triangulaire dans la deuxième prosphore, puis la place sur la patène à droite de l’Agneau (à gauche par rapport au célébrant):'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|saintparticles', 'text' : 'Il prend la troisième prosphore dont il prélèvera neuf parcelles, qu’il déposera verticalement, en trois rangées parallèles, sur le côté gauche de l’Agneau (côté droit par rapport à lui-même).'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|rank1', 'text' : 'Le prêtre enlève et place les parcelles en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|rank1', 'text' : 'En honneur et mémoire des saints archanges Michel et Gabriel, princes des milices angéliques, et de toutes les puissances incorporelles.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|rank2', 'text' : 'En honneur et mémoire du vénérable et glorieux prophète et précurseur Jean Baptiste, des saints et glorieux prophètes Moïse et Aaron, Élie et Élisée, Isaïe, David et Jessé, des trois saints jeunes gens et du saint prophète Daniel, et de tous les saints prophètes.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|rank3', 'text' : 'En honneur et mémoire des saints, glorieux et illustres apôtres Pierre et Paul, et de tous les saints apôtres.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|rank4', 'text' : 'En honneur et mémoire de nos pères parmi les saints, les hiérarques et docteurs universels Basile le Grand, Grégoire le Théologien, Jean Chrysostome, Athanase et Cyrille, Nicolas de Myre (Irénée de Lyon, Hilaire de Poitiers, Grégoire de Rome, Germain d’Auxerre, Martin de Tours...), et de tous les saints hiérarques.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|rank5', 'text' : 'En honneur et mémoire du saint apôtre et premier martyr l’archidiacre Étienne, des saints martyrs Démétrius, Georges, Pothin, Quentin et de tous les saints martyrs, des saintes martyres Thècle, Barbe, Catherine, Blandine et de toutes les saintes martyres.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|rank6', 'text' : 'En honneur et mémoire de nos vénérables pères porteurs de Dieu les moines Antoine, Benoît, Colomban, Athanase, Serge, Séraphim de Sarov et de tous les saints moines, des saintes moniales Pélagie, Anastasie, Scholastique, Radegonde, Marie l’Égyptienne et de toutes les saintes moniales.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|rank7', 'text' : 'En honneur et mémoire des saints thaumaturges et anargyres Cosme et Damien, Cyr et Jean, Pantéléimon et Hermolaüs et de tous les saints anargyres.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|rank8', 'text' : 'En honneur et mémoire des saints ancêtres de Dieu Joachim et Anne, de saint (patron de l’église) N... notre père, de saint (du jour) N... dont nous faisons mémoire, et de tous les saints. Visite-nous, ô Dieu, par leurs prières.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|rank9', 'text' : 'En honneur et mémoire de notre père parmi les saints Jean Chrysostome, archevêque de Constantinople.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|particlebishop', 'text' : 'Ayant pris une quatrième prosphore, le prêtre en détache une parcelle qu’il place en dessous de l’Agneau, sur le côté gauche de la patène, en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|particlebishop', 'text' : 'Souviens-toi, Maître, ami des hommes, de tout l’épiscopat orthodoxe, de notre père et bienheureux patriarche N..., de notre évêque N..., de l’ordre vénérable des prêtres, du diaconat dans le Christ et de tout l’ordre sacré, (de notre abbé N...), de nos frères et concélébrants ici présents NN... et de tous nos frères que tu as appelés à ta communion par ta miséricorde, ô Maître bienveillant.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|particlesliving', 'text' : 'Il met à la suite sur une ligne horizontale les parcelles pour les vivants, selon les diptyques de la paroisse et ceux apportés par les fidèles.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|particlesdeparted', 'text' : 'Il prend ensuite la cinquième prosphore et il en détache les parcelles pour les défunts, qu’il dépose en ligne sous la précédente:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|remember', 'text' : 'En mémoire et rémission des péchés des très saints patriarches, des bienheureux fondateurs de ce saint temple, et des serviteurs et servantes de Dieu NN... et pour tous nos pères et frères orthodoxes qui se sont endormis dans l’espérance de la résurrection et de la vie éternelle en ta communion, Seigneur, ami des hommes.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|particlepriest', 'text' : 'Reprenant la prosphore des vivants, il ajoute une parcelle à la fin de la rangée correspondante:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|particlepriest', 'text' : 'Souviens-toi aussi, Seigneur, de mon indignité et pardonne-moi toute transgression volontaire et involontaire.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|takecenser', 'text' : 'Ainsi se trouve figurée sur la patène l’Église rassemblée autour de l’Agneau. Le diacre présente l’encensoir et l’encens:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|blessincense', 'text' : '(en bénissant)'}
