@@ -82,3 +82,39 @@
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|particlepriest', 'text' : 'Souviens-toi aussi, Seigneur, de mon indignité et pardonne-moi toute transgression volontaire et involontaire.'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|takecenser', 'text' : 'Ainsi se trouve figurée sur la patène l’Église rassemblée autour de l’Agneau. Le diacre présente l’encensoir et l’encens:'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|blessincense', 'text' : '(en bénissant)'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|placestar', 'text' : 'Le prêtre prend l’astérisque, le tient au-dessus de l’encensoir puis le place sur la patène, au-dessous de l’Agneau et des parcelles en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|makemajestic', 'text' : 'Recouvre, père.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|placeveil', 'text' : 'Le prêtre tient au-dessus de l’encensoir le premier voile dont il recouvre la patène:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|cover', 'text' : 'Recouvre, père.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|coverchalice', 'text' : 'Le prêtre tient au-dessus de l’encensoir le second voile dont il recouvre le calice:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|coverchalice', 'text' : 'Ta vertu, ô Christ, a couvert les cieux et la terre est remplie de ta louange.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|shelter', 'text' : 'Recouvre, père.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|coverboth', 'text' : 'Le prêtre tient le grand voile (ou 'aër') au-dessus de l’encensoir et il en recouvre la patène et le calice:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|coverboth', 'text' : 'Protège-nous à l’ombre de tes ailes; écarte de nous tout ennemi et adversaire; fais-nous vivre en paix, Seigneur, aie pitié de nous et du monde qui est tien et sauve nos âmes, toi qui es bon et ami des hommes.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|censegifts', 'text' : 'Il encense trois fois la table de préparation en disant chaque fois:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|wellpleased', 'text' : 'Béni sois-tu, ô notre Dieu, car telle est ta volonté; gloire à toi.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|praygifts', 'text' : 'Pour les dons précieux qui sont offerts, prions le Seigneur.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|protheseosprayer', 'text' : 'Ô Dieu, notre Dieu, toi qui nous as envoyé le Pain céleste, nourriture pour le monde entier, notre Seigneur et Dieu Jésus Christ, Sauveur, Rédempteur et Bienfaiteur qui nous bénit et nous sanctifie, bénis toi-même cette offrande et reçois-la sur ton autel d’en haut. Souviens-toi, dans ta bonté et ton amour des hommes, de ceux qui l’ont apportée et de ceux pour qui ils l’ont apportée, et garde-nous d’être condamnés dans la célébration des tes divins mystères, car ton Nom magnifique et très honoré est sanctifié et glorifié, Père, Fils et Saint Esprit, maintenant et toujours et aux siècles des siècles. Amen.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|preparation|commemmorationchrysostom', 'text' : 'de notre père parmi les saints Jean Chrysostome, archevêque de Constantinople,'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|censeholytable', 'text' : 'Le diacre encense l’autel, en traçant avec l’encensoir un signe de croix sur chaque face, en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|psalm50', 'text' : 'Puis, en récitant à mi-voix le Psaume 50 (Miserere), le diacre encense tout le sanctuaire. Sortant ensuite par la porte nord, il encense les icônes, le peuple et l’église, dont il fait le tour de droite à gauche et il rentre dans le sanctuaire par la porte sud.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|startliturgy', 'text' : 'Après la préparation des dons à la table de préparation, le prêtre et le diacre se rendent directement, sans sortir du sanctuaire, devant l’autel. Ils font trois inclinations et disent à mi-voix les prières suivantes:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|kairos', 'text' : 'Le prêtre baise l'évangéliaire, l'autel et la croix de bénédiction. Le diacre s’incline devant le prêtre, lève l'orarion de la main droite et dit:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|blessdeacon', 'text' : 'Le prêtre le bénit en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|venerate', 'text' : 'Le diacre sort du sanctuaire par la porte nord et se rend à sa place ordinaire devant les portes royales. Il s’incline trois fois, puis il proclame:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|beginliturgy', 'text' : 'Le prêtre élève l’évangéliaire et trace le signe de croix au-dessus de l’antimension en disant d’une voix forte:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|litanypeace|title', 'text' : 'GRANDE LITANIE DE PAIX'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|sundayantifon1', 'text' : 'Le dimanche, versets du Psaume 102:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|deaconpositionantifon1', 'text' : 'Le diacre se place devant l’icône du Sauveur pendant le chant de la Première Antienne.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|deaconlitany', 'text' : 'Le diacre se rend à sa place habituelle, devant les portes saintes, pour les petites ecténies (litanies).'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|smalllitany|title', 'text' : 'PETITE ECTÉNIE'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|sundayantifon2', 'text' : 'Le dimanche, versets du Psaume 145:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|notsunday', 'text' : 'En semaine, versets du Psaume 92:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|alldays', 'text' : '« FILS UNIQUE  » (Hymne de l’Empereur Justin)'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|i|rubric|deaconpositionantifon2', 'text' : 'Le diacre se place devant l’icône du Sauveur pendant le chant de la deuxième antienne.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|entersouth', 'text' : 'Le diacre rentre dans le sanctuaire par la porte sud.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|antifon2|title', 'text' : 'DEUXIÈME ANTIENNE'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|antifon1|title', 'text' : 'PREMIÈRE ANTIENNE'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|antifon3|title', 'text' : 'TROISIÈME ANTIENNE (Les Béatitudes)'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|smallentrance', 'text' : 'Pendant cette antienne, les célébrants font trois inclinations et baisent l’autel. Le prêtre remet l’évangéliaire au diacre qui lui baise la main. Précédés d’un acolyte porteur d’une cierge, ils sortent du sanctuaire par la porte nord, le diacre marchant devant le prêtre et tenant des deux mains l’évangéliaire au niveau de sa tête.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|deaconquietly', 'text' : 'Arrivés au milieu de la nef, le dialogue qui suit se fait à voix basse:'}

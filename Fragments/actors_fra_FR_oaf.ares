@@ -3,3 +3,6 @@ A_Resource_Whose_Name = actors_fra_FR_oaf
 Clergy = "CLERGÉ"
 Deacon = "DIACRE"
 Priest = "PRÊTRE"
+People = "TOUS"
+Choir = "CHOEUR"
+
