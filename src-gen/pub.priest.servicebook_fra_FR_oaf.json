@@ -118,3 +118,13 @@
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|antifon3|title', 'text' : 'TROISIÈME ANTIENNE (Les Béatitudes)'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|smallentrance', 'text' : 'Pendant cette antienne, les célébrants font trois inclinations et baisent l’autel. Le prêtre remet l’évangéliaire au diacre qui lui baise la main. Précédés d’un acolyte porteur d’une cierge, ils sortent du sanctuaire par la porte nord, le diacre marchant devant le prêtre et tenant des deux mains l’évangéliaire au niveau de sa tête.'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|deaconquietly', 'text' : 'Arrivés au milieu de la nef, le dialogue qui suit se fait à voix basse:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|deaconquietly2', 'text' : 'Arrivés aux portes royales et la prière terminée, le diacre se tourne de profil vers le prêtre en tenant de la main gauche l’évangéliaire appuyé sur son épaule gauche, et montrant en même temps les portes royales avec l’extrémité de l’étole tenue de la main droite, il dit:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|kissgospel', 'text' : 'Le diacre présente au prêtre l’évangéliaire à baiser, puis, le chant de la troisième antienne achevé, il l’élève en proclamant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|completeentrance', 'text' : 'Le prêtre et le diacre pénètrent dans le sanctuaire par les portes royales; le diacre dépose l’évangéliaire sur l’autel.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|Asterisks', 'text' : '***************************'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|notsunday', 'text' : 'En semaine:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|kontakion1', 'text' : 'Le choeur chante les Tropiares indiqués au propre du jour et éventuellement celui du saint patron de l’Église et d’autres, et la doxologie:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|kontakion2', 'text' : 'Le choeur chante le Kondakion de la fête ou du dimanche.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|theotokoskontakion', 'text' : 'TROPAIRE DE LA MÈRE DE DIEU'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|deaconkainyn', 'text' : 'Le diacre se tourne vers l’assemblée et élève son étole en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|command', 'text' : 'Pendant le Trisagion, le diacre dit au prêtre à mi-voix:'}
