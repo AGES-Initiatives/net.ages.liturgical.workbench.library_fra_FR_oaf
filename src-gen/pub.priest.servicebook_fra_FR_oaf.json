@@ -157,3 +157,34 @@
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|cherubic2', 'text' : 'Pour recevoir le Roi de toutes choses, invisiblement porté par les anges, alléluia, alléluia, alléluia.'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|censeatcherubikon', 'text' : 'Ils baisent l’autel, saluent le peuple et se rendent à la table de préparation, en contournant l’autel par la droite. Le prêtre encense les dons en disant trois fois:'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|forgive', 'text' : 'Ô Dieu, purifie moi, pécheur.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|unfoldantimension', 'text' : 'Le prêtre déplie l’antimension.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|eparon', 'text' : 'Le diacre reprend l’encensoir et dit:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|eparon', 'text' : 'Élève, père.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|psa133|v2|fullattribution', 'text' : '(Ps 133, 2)'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|takegifts', 'text' : 'Tenant l’encensoir de la main droite, le diacre met un genou à terre (sauf le dimanche et au temps pascal) et reçoit du prêtre la patène. Le prêtre lui-même prend le calice.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|procession', 'text' : 'Précédée du porte-cierge, la procession sort du sanctuaire par la porte nord. Elle va jusqu’au fond de l’église et revient par l’allée centrale. Le prêtre fait les commémorations solonnelles pendant la procession.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|cherubic2', 'text' : 'Pour recevoir le Roi de toutes choses, invisiblement porté par les anges. Alléluia, alléluia, alléluia.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|deaconright', 'text' : 'Le diacre se tient devant l’autel à droite, il met un genou en terre (sauf le dimanche et au temps pascal). Le rite qui suit se fait à voix basse.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|holydiaconate', 'text' : 'Que le Seigneur se souvienne de ton diaconat dans son Royaume, en tout temps, maintenant et toujours et dans les siècles des siècles.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|placegiftsaltar', 'text' : 'Le prêtre dépose le calice à droite sur l’autel et prend la patène des mains du diacre et la place à gauche du calice; il enlève les voiles de la patène et du calice, les plie et les place sur l’autel en disant à voix basse:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|noblejoseph', 'text' : 'Le noble Joseph descendit du bois ton Corps très pur, l’enveloppa d’un linceul immaculé et le déposa couvert d’aromates dans un sépulcre neuf. Dans le tombeau par ton corps, dans les enfers par ton âme, comme Dieu au paradis avec le larron, tu étais sur le trône avec le Père et l’Esprit, ô Christ qui remplis tout et qu’aucun lieu ne peut contenir.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|covergiftsaer', 'text' : 'Le prêtre enlève le grand voile de l’épaule du diacre, le tient un moment devant l’encensoir puis en recouvre les saints dons en disant à voix basse:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|psa50|v20|v21|fullattribution', 'text' : '(Ps 50, 20-21)'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|rememberpriest', 'text' : 'Le prêtre rend l’encensoir au diacre et, s’inclinant, lui dit à voix basse:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|praypriest', 'text' : 'Prie pour moi, frère et concélébrant.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|beginlitanygifts', 'text' : 'Le diacre baise la main du prêtre et sort du sanctuaire par la porte nord.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|litanygifts|title', 'text' : 'LITANIE DE SUPPLICATION'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|agapwse', 'text' : 'Le prêtre s’incline trois fois, baise les saints dons par-dessus le voile, puis l’autel en disant à voix basse:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|kissofpeace', 'text' : 'S’il y a concélébration, le célébrant principal se place à droite de l’autel et dit au premier concélébrant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|christmidst1', 'text' : 'Le Christ est au milieu de nous.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|kissofpeace2', 'text' : 'Le concélébrant lui répond:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|christmidst2', 'text' : 'Il l’est et le demeurera.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|deaconkiss', 'text' : 'Et ils se donnent le baiser de paix; le premier concélébrant le passe de la même façon au concélébrant suivant et ainsi de suite. S’il est d’usage de transmettre le baiser de paix parmi les fidèles, c’est ici qu’il se place.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|creed|title', 'text' : 'SYMBOLE DE FOI'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|waveaer', 'text' : 'Le prêtre après avoir ôté le grand voile qui recouvre les saints dons l’agite au-dessus pendant le chant du Symbole de foi, jusqu’à l’article 'Il est monté au ciel...' Puis il le plie et le dépose avec les petits voiles sur l’autel.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|priestblessing', 'text' : 'Le prêtre bénit le peuple depuis les portes royales:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|removestar', 'text' : 'Le diacre enlève l’astérisque de dessus la patène, frappant légèrement les bords en signe de croix, le plie puis le dépose sur l’autel.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|exaltgifts', 'text' : 'Le diacre, croisant les mains, prend la patène de la main droite et le calice de la main gauche, puis les élève, en faisant un signe de croix au-dessus de l’autel.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|tasa', 'text' : 'Ce qui est à toi, le tenant de toi, nous te l'offrons en tout et pour tout.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|seimnumen', 'text' : 'Nous te chantons, nous te bénissons, nous te rendons grâce, Seigneur, et nous te prions, ô notre Dieu.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|bowinghead', 'text' : 'Ils s’inclinent.'}
