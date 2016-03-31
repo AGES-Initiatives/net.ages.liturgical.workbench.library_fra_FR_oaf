@@ -1,3 +1,6 @@
 {'id_' : 'client_fra_FR_oaf|cl|eu|lichrysbasil|R009', 'text' : 'Lecture de l’Épître...'}
 {'id_' : 'client_fra_FR_oaf|cl|eu|lichrysbasil|R010', 'text' : 'Le lecteur lit l’Épître, puis le prêtre dit à voix basse:'}
 {'id_' : 'client_fra_FR_oaf|cl|eu|lichrysbasil|R011', 'text' : 'Lecture du saint Évangile selon saint N...'}
+{'id_' : 'client_fra_FR_oaf|cl|bishop1|rank', 'text' : 'de notre patriarche (métropolite)'}
+{'id_' : 'client_fra_FR_oaf|cl|bishop1|name_p', 'text' : 'N...,'}
+{'id_' : 'client_fra_FR_oaf|cl|bishop2|rank', 'text' : 'de notre évêque N...,'}

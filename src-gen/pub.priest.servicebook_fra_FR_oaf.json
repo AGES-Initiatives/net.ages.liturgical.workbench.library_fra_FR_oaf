@@ -188,3 +188,20 @@
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|tasa', 'text' : 'Ce qui est à toi, le tenant de toi, nous te l'offrons en tout et pour tout.'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|seimnumen', 'text' : 'Nous te chantons, nous te bénissons, nous te rendons grâce, Seigneur, et nous te prions, ô notre Dieu.'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|bowinghead', 'text' : 'Ils s’inclinent.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|pointbread', 'text' : 'Le diacre désigne le pain avec l’étole:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|changebread', 'text' : 'Bénis, père, le pain sacré.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|changebread', 'text' : 'Le prêtre bénit le pain:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|pointchalice', 'text' : 'Le diacre désigne le calice:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|changewine', 'text' : 'Bénis, père, le saint calice.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|blesschalice', 'text' : 'Le prêtre bénit le calice:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|blessboth', 'text' : 'Le diacre, désignant les saints dons:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|blessboth', 'text' : 'Bénis, père, l’un et l’autre.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|epiclesis', 'text' : 'Le prêtre les bénit ensemble en disant:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|forvigilance', 'text' : 'Le prêtre continue la prière eucharistique.'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|censemegalynarion', 'text' : 'Il encense les saints dons, disant à haute voix:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|censecommemmorate', 'text' : 'Le prêtre donne l’encensoir au diacre qui encense lentement tout autour de l’autel en récitant les diptyques. Le prêtre continue à voix basse:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|wote', 'text' : 'Là où c'est l'usage, le diacre, devant les portes royales, proclame:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|blessmercy', 'text' : 'Et se tournant vers le peuple, il le bénit:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|litanylordsprayer|title', 'text' : 'LITANIE DE COMMUNION'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|bowcommunion', 'text' : 'Le diacre s’incline trois fois en disant à voix basse:'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|holyforholy', 'text' : 'Le prêtre élève le Pain sacré et dit à haute voix:'}
