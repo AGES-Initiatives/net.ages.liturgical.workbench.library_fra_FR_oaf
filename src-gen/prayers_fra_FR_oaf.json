@@ -64,3 +64,8 @@
 {'id_' : 'prayers_fra_FR_oaf|Allilouia3|text', 'text' : 'Alléluia, alléluia, alléluia.'}
 {'id_' : 'prayers_fra_FR_oaf|pet37', 'text' : 'Que la bénédiction du Seigneur et sa miséricorde descendent sur vous par sa grâce et son amour pour l’homme, en tout temps, maintenant et toujours et aux siècles des siècles.'}
 {'id_' : 'prayers_fra_FR_oaf|res06', 'text' : 'Seigneur, aie pitié. Seigneur, aie pitié. Seigneur, aie pitié.'}
+{'id_' : 'prayers_fra_FR_oaf|DefteProskinisomen1', 'text' : 'Venez, adorons, prosternons-nous devant Dieu, notre Roi.'}
+{'id_' : 'prayers_fra_FR_oaf|DefteProskinisomen2', 'text' : 'Venez, adorons, prosternons-nous devant le Christ, notre Roi et notre Dieu.'}
+{'id_' : 'prayers_fra_FR_oaf|DefteProskinisomen3', 'text' : 'Venez, adorons, prosternons-nous devant le Christ lui-même, notre Roi et notre Dieu.'}
+{'id_' : 'prayers_fra_FR_oaf|Allilouia3Doxa|text', 'text' : 'Alléluia, alléluia, alléluia, gloire à toi, ô Dieu.'}
+{'id_' : 'prayers_fra_FR_oaf|IElpisImonKyrie', 'text' : 'Notre espérance, Seigneur, gloire à toi.'}
