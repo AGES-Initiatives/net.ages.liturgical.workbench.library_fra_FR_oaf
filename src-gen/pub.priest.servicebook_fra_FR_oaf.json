@@ -268,3 +268,4 @@
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|kontakionchrysostom', 'text' : 'Tu as reçu la grâce divine des cieux, et de tes lèvres, tu nous as enseigné à adorer le Dieu Trinité. Ô Jean Chrysostome, saint et bienheureux, nous t'acclamons dignement, car tu es notre guide dans les choses divines.'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|theotokion', 'text' : 'À toutes les Liturgies:'}
 {'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|theotokion', 'text' : 'L'Église est apparue comme un ciel aux nombreuses clartés, conduisant tous les fidèles à la lumière. En elle crions, Seigneur, affermis cette Maison!'}
+{'id_' : 'pub|priest|servicebook_fra_FR_oaf|li|rubric|eachpetition', 'text' : '(de même après chaque demande)'}
